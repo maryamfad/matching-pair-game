@@ -1,0 +1,12 @@
+.filppable-card-container{
+    height: 300px;
+    width: 150px;
+    perspective: 1000px;
+}
+.container{
+    /* width: 100vw;
+    height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
